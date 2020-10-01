@@ -1,2 +1,2 @@
 # rhok-ca-wordpress-website
-The rhok.ca website. 
+The rhok.ca Wordpress Website. 
